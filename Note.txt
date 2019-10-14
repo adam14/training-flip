@@ -1,11 +1,10 @@
-Cara menjalankan prokect Disburs Native;
+Cara menjalankan project Disburse Native;
 1. Extract file zip
-2. Migration databes, table dan data. Buka file migration.sql dan copy query dan run langkah 1, 2,dan 3 disql anda
+2. Migration database, table dan data. Buka file migration.sql dan copy query dan run langkah 1, 2,dan 3 disql anda
 3. Copy folder training-flip ke htdocs xampp / wampp 
 4. http://localhost/training-flip/ 
-5. Isi form dan  submit untuk inquiry disburse
-6. Klik show list disburs untuk lihat list disburse
-7. Klik id disburse untuk cek ulang status disburse
-8. Tampilan detail disburse sesudah di update 
+5. Isi form dan process untuk inquiry disburse
+6. Klik id disburse untuk cek ulang status disburse
+7. Tampilan detail disburse sesudah di update 
 9. kembali ke form atau ke list disburse
-10. Semua request dan response otomatis ke update di database table disburse  
+11. Semua request dan response otomatis ke update di database table disburse  
